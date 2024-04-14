@@ -1,0 +1,32 @@
+{
+    "NON_MEMBER_YET": "not a member yet",
+    "PRESENT" : "present",
+    "ABSENT" : "absent",
+    "FULL" : "full",
+
+
+    "comment1": "months follow: 1 : january, 2 : february, 3 : march, etc",
+    "comment2" : "start of second semester",
+    "SEM_1_DAY" : 17,
+    "SEM_1_MONTH" : 4,
+    "SEM_1_YEAR" : 2023,
+
+    "comment3" : "start of second semester",
+    "SEM_2_DAY" : 16,
+    "SEM_2_MONTH" : 10,
+    "SEM_2_YEAR" : 2023,
+
+    "NAME" : "TAY YEE CHEN",
+    "ADMIN_NUMBER" : 2103244 ,
+    "AY" : "23/24",
+
+    "SHOW_EXCO_ATTENDANCE" : false,
+    "EXCOS" : ["ELLA CHEW XIN YI","LEE CZE AN", "TAY YEE CHEN", "BERTRAND WONG JIAN JUN", "SEAN TANG SHAO AN", "LEE CHENG XUN GABRIEL"],
+
+    "LASTEST_NAMELIST" : "../16 jan.xlsx",
+    "NAMES_WITH_ADMIN_NUMBERS" : "../namesWithAdmin.csv",
+
+    "CONSOLIDATED_FILE" : "../CCA Attendance Sheet.xlsx",
+
+    "WORD_FILE_TEMPLATE" : "../AY2021 S2 SD-FRM-022A CCA Records Form Template.docx"
+}
