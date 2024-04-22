@@ -26,7 +26,10 @@ Steps to use program:
     8.2. A file named "CCA Attendance Sheet.xlsx" will be created. This files shows the consolidated attendance of each member and which day(s) they attended.
     8.3. 2 more files named "AY<your AY> S1 SD-FRM-022A CCA Records Form.docx" and "AY<your AY> S2 SD-FRM-022A CCA Records Form.docx" will be created. This are the file to be submitted to your SD officer.
 9. Should there be an error go the the "Issues" tab of this repository and create a thread and I will try to reply as soon as possible.
-10. That is all. If you are unsure of anything, ask your senior as they should know what to do.
+10. Should there be a change in format required by SD, do let me know in the "Issues" tab as well.
+11. That is all. If you are unsure of anything, ask your senior as they should know what to do.
 
+DO NOTE:
+- Try to ensure that there is no changes in the format of the attendance excel as this program would not work!
 
    
